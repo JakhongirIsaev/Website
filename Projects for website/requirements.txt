@@ -1,0 +1,6 @@
+python-telegram-bot==20.0
+Flask==2.3.2          # или FastAPI, если используете его
+google-auth==2.18.0
+google-auth-oauthlib==1.0.0
+google-api-python-client==2.95.0
+APScheduler==3.10.1   # если планируете in-app расписание
